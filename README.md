@@ -1,4 +1,4 @@
-# MiscTraits
+# Miscellaneous Traits
 Miscellaneous traits to be used in PHP 
 
 **TimeZoneTrait.php**
