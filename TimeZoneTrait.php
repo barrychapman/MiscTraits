@@ -3,7 +3,11 @@
 use \DateTime;
 use \DateTimeZone;
 
-
+/*
+ * Requires PHP 5.4+
+ *
+ *
+*/
 trait TimeZoneTrait {
 
     protected $zones;
